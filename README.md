@@ -149,6 +149,6 @@ uvicorn app.main:app --reload --port 8001
 **Database locked error:**
 Delete `expense_tracker.db` and restart the application to reset the database.
 
-## License
+### License
 
 This project is open source and available under the MIT License.
